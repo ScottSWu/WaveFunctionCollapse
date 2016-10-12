@@ -1,0 +1,3 @@
+<samples>
+	<overlapping name="Knot" N="3" periodic="True"/>
+</samples>
